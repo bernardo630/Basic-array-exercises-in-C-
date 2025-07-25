@@ -21,7 +21,7 @@ Como Executar
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/bernardo630/Basic-array-exercises-in-C-/tree/main
    ```
 
 2. Abra o projeto em sua IDE de preferência.
